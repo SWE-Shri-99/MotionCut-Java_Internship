@@ -9,7 +9,7 @@ This repository contains 4 Java projects that were developed as part of a progra
 
 **3) Expense Tracker**
 
-**4) Text-based Adventure Game**
+**4) Text-based Adventure Game*
 
 
 ## **Project Summaries**
