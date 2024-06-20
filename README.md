@@ -1,7 +1,7 @@
 # MotionCut-Java_Internship
 ## **OVERVIEW**
 
-This repository contains three Java projects that were developed as part of a programming internship. Each project aims to reinforce fundamental Java concepts through practical application. The projects included are:
+This repository contains 4 Java projects that were developed as part of a programming internship. Each project aims to reinforce fundamental Java concepts through practical application. The projects included are:
 
 **1) Online Quiz Application**
 
@@ -9,7 +9,7 @@ This repository contains three Java projects that were developed as part of a pr
 
 **3) Expense Tracker**
 
-
+**4) Text-based Adventure Game**
 
 
 ## **Project Summaries**
