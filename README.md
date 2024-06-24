@@ -1,7 +1,7 @@
 # MotionCut-Java_Internship
 ## **OVERVIEW**
 
-This repository contains 4 Java projects that were developed as part of a programming internship. Each project aims to reinforce fundamental Java concepts through practical application. The projects included are:
+This repository contains 5 Java projects that were developed as part of a programming internship. Each project aims to reinforce fundamental Java concepts through practical application. The projects included are:
 
 **1) Online Quiz Application**
 
@@ -10,6 +10,8 @@ This repository contains 4 Java projects that were developed as part of a progra
 **3) Expense Tracker**
 
 **4) Text-based Adventure Game**
+
+**5) Brick Breaker Game**
 
 
 ## **Project Summaries**
@@ -73,3 +75,25 @@ Features:
 ♦ Error Handling: Manage and respond to invalid inputs gracefully.
 
 ♦ User-Friendly Interface: Ensure clear instructions and intuitive interaction for players.
+
+##
+
+### **5. Brick Breaker Game**
+
+An interactive narrative experience where users make choices that influence the outcome of the story.
+
+Features:
+
+♦ Game Logic: Develop core mechanics for paddle movement, ball bouncing, and brick destruction. Include collision detection and a scoring system.
+
+♦ Levels and Difficulty: Design multiple levels with increasing complexity and adjust difficulty by altering ball speed and introducing challenges.
+
+♦ User Input: Enable keyboard input for paddle control, and add features like pausing and restarting.
+
+♦ Sound Effects and Music: Enhance the gaming experience with sound effects for ball hits, brick breaks, and background music.
+
+♦ Game Over and Victory Conditions: Implement conditions for game over and define victory conditions for completing levels.
+
+♦ Optimizations: Optimize code for better performance, considering features like double buffering.
+
+♦ Documentation: Provide clear documentation and comments for the codebase to aid understanding.
